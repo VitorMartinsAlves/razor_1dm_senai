@@ -1,7 +1,14 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+
+.center{
+  margin: auto;
+  padding: 16%;
+}
+
 a.navbar-brand {
+  
   white-space: normal;
   text-align: center;
   word-break: break-all;
@@ -59,7 +66,8 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
+  background-image: url()
+  
   margin-bottom: 60px;
 }
 .footer {
@@ -68,4 +76,8 @@ body {
   width: 100%;
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
+}
+
+.preto {
+    color: black;
 }
