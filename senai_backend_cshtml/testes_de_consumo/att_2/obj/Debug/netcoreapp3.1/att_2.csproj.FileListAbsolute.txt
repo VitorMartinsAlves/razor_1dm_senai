@@ -1,0 +1,151 @@
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.exe
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.deps.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.Views.dll
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.input.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.output.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorCoreGenerate.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.Manifest.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.xml
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.genruntimeconfig.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CopyComplete
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.exe
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.deps.json
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.json
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.Views.dll
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\bin\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.input.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.output.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorCoreGenerate.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.Manifest.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.xml
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.genruntimeconfig.cache
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CopyComplete
+C:\Users\vitor\Desktop\razor_1dm_senai - Copia\senai_backend_cshtml\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.exe
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.deps.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.Views.dll
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\bin\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.input.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.output.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.RazorCoreGenerate.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cs
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.Manifest.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.xml
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.genruntimeconfig.cache
+C:\Users\vitor\Desktop\razor_1dm_senai\senai_backend_cshtml\testes_de_consumo_de_csv\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CopyComplete
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.exe
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.deps.json
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.json
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.Views.dll
+C:\Users\vitor\Desktop\att_2\bin\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.AssemblyInfo.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.RazorAssemblyInfo.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.input.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.TagHelpers.output.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.RazorCoreGenerate.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.RazorTargetAssemblyInfo.cs
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.Views.pdb
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.Manifest.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\staticwebassets\att_2.StaticWebAssets.xml
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.dll
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.pdb
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.genruntimeconfig.cache
+C:\Users\vitor\Desktop\att_2\obj\Debug\netcoreapp3.1\att_2.csproj.CopyComplete
