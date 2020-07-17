@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\att_2\\att_2.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\razor_1dm_senai\\senai_backend_cshtml\\testes_de_consumo\\att_2\\att_2.csproj",
       "projectName": "att_2",
-      "projectPath": "C:\\Users\\vitor\\Desktop\\att_2\\att_2.csproj",
+      "projectPath": "C:\\Users\\vitor\\Desktop\\razor_1dm_senai\\senai_backend_cshtml\\testes_de_consumo\\att_2\\att_2.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Desktop\\att_2\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\Desktop\\razor_1dm_senai\\senai_backend_cshtml\\testes_de_consumo\\att_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
